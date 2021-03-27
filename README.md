@@ -20,3 +20,10 @@ algo. Assim que li as instruções, percebi que o que eu lembrava das aulas com 
 desafio, chegando a ter dificuldades em saber onde e como procurar as informações, tendo q ir ler linha por linha da documentação presente no site do NCBI, nas bibliotecas que já
 citei, talvez eu pudesse ter sido um pouco mais rápido em resolver problemas menores, como meu usuário ter acento (César), e isso impedir o BLAST de funcionar quando executado de
 um diretório dentro de Users, porém isso foi bem menor que aprender todos os parâmetros, todas as funções e bibliotecas que levam aos resultados que desejo.
+
+  Sobre os códigos e arquivos de resultados: todos os arquivos de resultados possuem o próprio caminho/arquivo de saída do programa e mais um backup caso aconteça algo inexperado,
+no caso da parte do código que roda o BLAST, eu deixei a possibilidade de pular, pois aqui no meu computador demorou bastante tempo para fazer toda a analise, sugir que pulem 
+depois de ver que o código funciona e vejam os arquivos de resultado (backup), as demais partes também possuem saídas, porém sugiro que vejam os backups para saber exatamente o
+resultado que eu tive aqui.
+
+  Do mais muito obrigado pela oportunidade, sinto que faltam coisas ainda para eu conseguir lidar com os problemas que a área da empresa exige, porém espero que eu tenha demonstrado claramente que pretendo me esforçar para alcançar esse resultado.
