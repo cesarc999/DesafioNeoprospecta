@@ -4,14 +4,13 @@ Gostaria de oferecer alguns detalhes sobre os caminhos que eu tomei e conclusõe
 facilitar meu acesso às bibliotecas Pandas e Biopython, também escolhi instalar o BLAST no meu próprio computador ao invés de usar na nuvem, como falaram que a empresa normalmente
 usa, fiz isso porque estava parecendo mais difícil usar algum provedor (seja amazon ou google, duas opções sugeridas no próprio site do NCBI), muito devagar usar pelo próprio site
 (usando a biblioteca NCBIWWW do Biopython) e como eu estava com medo de não ter tempo para terminar todas as atividades do desafio (coisa que acabou acontecendo), escolhi instalar
-no meu computador.  
- Pelo fato de ter instalado e feito o código com o BLAST no meu computador, também tive que instalar a database 16S e assim, hospedar ela aqui no GitHub, por conta disso o arquivo
- ficou bem grande e precisou ser compactado.
+no meu computador. Pelo fato de ter instalado e feito o código com o BLAST no meu computador, também tive que instalar a database 16S e assim, hospedar ela aqui no GitHub, assim o
+arquivo acabou ficando bem grande e precisou ser compactado.
 
-  Quanto ao código, fiz um que executasse a tarefa, porém longe de estar bonito, bem otimizado ou interativo, porém acabei não tendo tempo para fazer um programa eficiente e
-dinâmico, coisas que eu julgo necessárias, com mais tempo estes seriam os meus próximos passo. Será possível perceber que o código não possibilita escolhas para o usuário, é um
-pouco difícil de ser entendido e não executa todas as funções pedidas, mas está muito além do que eu conseguia fazer na Segunda-feira, quando iniciei meus estudos direcionados ao
-desafio.
+  Quanto ao código, fiz um que executasse a tarefa, porém longe de estar bonito, bem otimizado ou interativo, acabei não tendo tempo para fazer um programa eficiente e dinâmico,
+coisas que eu julgo necessárias. Será possível perceber que o código não possibilita escolhas para o usuário, é um pouco difícil de ser entendido e não executa todas as funções
+pedidas, mas está muito além do que eu conseguia fazer na Segunda-feira, quando iniciei meus estudos direcionados ao desafio. Com mais tempo eu implementaria a possibilidade do
+usuário escolher o seu código, o banco de dados, onde os arquivos serão salvos, etc.
 
   Ainda sobre as dificuldades, assim que li as instruções, percebi que o que eu lembrava das aulas com BLAST teriam pouquíssima utilidade e que eu não possuía os conhecimentos
 necessários para completar o desafio, chegando a ter dificuldades em saber onde e como procurar as informações, tendo que ir ler linha por linha da documentação presente no site
